@@ -1,10 +1,11 @@
 <h1> Hi there everyone, I'm Ahmed! 👋 </h1>
-
+</br> </br>
 
 - 🔭 I’m currently studying software engineering
 - 🌱 I’m passionate about web, mobile and blockchain development
 - 👯 I’m open to any question or feedback
 
+</br> </br>
 
 [![AhmedOT22's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedOT22)](https://github.com/AhmedOT22/github-readme-stats)
 
