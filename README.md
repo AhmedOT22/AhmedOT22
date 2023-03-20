@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi there everyone, I'm Ahmed! 👋
 
-<!--
-**AhmedOT22/AhmedOT22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently studying software engineering
+- 🌱 I’m passionate about web, mobile and blockchain development
+- 👯 I’m open to any question or feedback
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![AhmedOT22's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedOT22)](https://github.com/AhmedOT22/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedOT22)](https://github.com/AhmedOT22/github-readme-stats)
+
+Thanks for checking out my profile! Feel free to explore my repositories and don't hesitate to reach out if you have any questions or just want to say hi.
