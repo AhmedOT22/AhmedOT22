@@ -1,8 +1,8 @@
 <h1> Hi there everyone, I'm Ahmed! 👋 </h1>
 </br> </br>
 
-- 🔭 I’m currently studying software engineering
-- 🌱 I’m passionate about web, mobile and blockchain development
+- 🔭 I’m currently studying Business Intellignece
+- 🌱 I’m passionate about Business Intelligence, Data Science, Machine Learning, Artificial Intelligence and Web development
 - 👯 I’m open to any question or feedback
 
 </br> </br>
