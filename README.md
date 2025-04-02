@@ -40,7 +40,7 @@
 
 [![AhmedOT22's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedOT22)](https://github.com/AhmedOT22/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedOT22&size_weight=0.5&count_weight=0.5&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedOT22&size_weight=0.6&count_weight=0.4&langs_count=8)
 
 
 
