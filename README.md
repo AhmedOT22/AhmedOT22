@@ -52,10 +52,11 @@
 </br>
 
 ### 📊 GitHub Stats
-[![AhmedOT22's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedOT22)](https://github.com/AhmedOT22/github-readme-stats)
-</br></br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedOT22&langs_count=6&size_weight=0.25&count_weight=0.75)
-</br></br>
+[![AhmedOT22's GitHub stats](./profile/stats.svg)](https://github.com/AhmedOT22)
+<br><br>
+
+![Top Languages](./profile/top-langs.svg)
+<br><br>
 
 ### 📫 Let's Connect
 - 📧 Email: [ahmedouazzani225@gmail.com](mailto:ahmedouazzani225@gmail.com)
