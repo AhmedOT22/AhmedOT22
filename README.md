@@ -1,69 +1,49 @@
-<h1>Hello World, I'm Ahmed! 👋</h1>
-<h3>📊 Data Science | 🎓 Business Intelligence | 🌐 Web Development</h3>
+# Ahmed Ouazzani
 
-### About Me
+**Data Analytics · Data Engineering · Machine Learning & Applied AI**  
+Ottawa, Ontario, Canada | English · French · Arabic
 
-- 🔍 Leveraging Data Science and Machine Learning to solve real-world business problems.  
-- 💡 Creating intuitive data visualizations that tell compelling stories.  
-- 🌱 Currently expanding my knowledge in advanced analytics and Generative AI.  
-- 🤝 Seeking collaborative projects at the intersection of technology and business intelligence.
-<br><br>
+[Portfolio](https://portfolio-9o9p.onrender.com/) · [LinkedIn](https://www.linkedin.com/in/ahmed-ouazzani-5b078b205/) · [Email](mailto:ahmedouazzani225@gmail.com)
 
-### 🛠️ Skill Set
+## About
 
-**Programming Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2b%2b&logoColor=white&style=for-the-badge)
-![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
-![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white&style=for-the-badge)
+Software engineering graduate with postgraduate training in business intelligence and project management. I build practical data systems—from data acquisition and validation to SQL models, Power BI reporting, forecasting, and evidence-grounded AI prototypes.
 
-**Data Science & Analytics**  
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-19AEFF?style=for-the-badge&logo=python&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+My background spans business intelligence internships, a municipal client capstone, Python/SQL data pipelines, and reproducible machine-learning experiments. I am pursuing **data analyst, BI developer, data engineer, analytics engineer, data scientist, and applied AI** opportunities in Canada.
 
-**Business Intelligence**  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=for-the-badge)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=for-the-badge)
+## Selected work
 
-**Frontend Development**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge)
+| Project | What it demonstrates | Current scope |
+| --- | --- | --- |
+| [Toronto Air Quality Forecasting](https://github.com/AhmedOT22/Air-Quality-Forecasting) | Python ETL, source-quality checks, chronological model evaluation, Ridge forecasting, scheduled refresh and monitoring | Station-specific reconstructed AQI. On the 2025 evaluation, the selected model reduced MAE against persistence by **27.0% at day 1** and **25.7% at day 7**; this is retrospective, not a live accuracy guarantee. |
+| [Hospital Insights Dashboard](https://github.com/AhmedOT22/Hospital-Insights-Dashboard) | SQL Server schema and constraints, reproducible synthetic data, Power BI/DAX, reconciliation and report design | Five-page report project built with **synthetic data**; Power BI Desktop visual/DAX acceptance remains pending. |
+| **Procurement Contract Analysis** | React, FastAPI, cited PDF review, optional local LLM integration, acquisition ETL and a separate PostgreSQL research warehouse | **Private, local prototype.** Manual evidence review works; reliable semantic extraction and approved contract pricing are not complete. See the [portfolio](https://portfolio-9o9p.onrender.com/) for an overview. |
 
-**Backend & Frameworks**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge)
-![.NET Core](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge)
+### Additional projects
 
-**Databases & Tools**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
-</br>
+- [Loan Eligibility Prediction](https://github.com/AhmedOT22/Loan-Eligibility-Prediction) — scikit-learn classification, leakage-aware preprocessing, repeated cross-validation, baseline comparison and a Streamlit interface.
+- [Real Estate Price Estimation](https://github.com/AhmedOT22/Real-Estate-Price-Estimation) — regression benchmarks on historical property records; limitations and serving-version differences are documented.
+- [Amazon Sales Analysis](https://github.com/AhmedOT22/Amazon-Sales-Analysis) — Power BI report and Python-based exploratory notebooks.
+- [Mall Customer Segmentation](https://github.com/AhmedOT22/Mall-Customers-Segmentation), [Graduate Admission Classification](https://github.com/AhmedOT22/UCLA-Admission-Prediction) and [Stock Watcher](https://github.com/AhmedOT22/Stock-Watcher-Notebook) — additional educational demos and analysis work.
 
-### 📊 GitHub Stats
-[![AhmedOT22's GitHub stats](./profile/stats.svg)](https://github.com/AhmedOT22)
-<br><br>
+## Technical focus
 
-![Top Languages](./profile/top-langs.svg)
-<br><br>
+- **Data and analytics:** Python, SQL, Pandas, NumPy, Power BI, DAX, Power Query, Excel, KPI design and visualization.
+- **Engineering:** ETL/ELT, data validation, data modelling, SQL Server, PostgreSQL, MySQL, Parquet, GitHub Actions, Docker and testing.
+- **Machine learning:** scikit-learn, feature engineering, time-series forecasting, chronological validation, baseline evaluation and Streamlit.
+- **Applications and AI:** FastAPI, Flask, React, TypeScript, Vue.js, Laravel and local LLM integration with source-evidence checks.
 
-### 📫 Let's Connect
-- 📧 Email: [ahmedouazzani225@gmail.com](mailto:ahmedouazzani225@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/Ahmed](https://www.linkedin.com/in/ahmed-ouazzani-5b078b205/)
-- 🌐 Portfolio: [www.AhmedOuazzani.com](https://portfolio-9o9p.onrender.com/)
-</br></br>
+## Experience and education
 
-### 🙏 Thanks for Visiting!
-Thanks for stopping by my GitHub!  
-Feel free to check out my projects, connect with me, or reach out — I’m always open to collaboration and new ideas.
+- **Venizia Inc.** — Business Intelligence & Data Analytics Intern (2025).
+- **City of Ottawa / Algonquin College** — team lead, municipal child-care analytics capstone (2025; academic client project, not municipal employment).
+- **STE Comised** — Business Intelligence Intern (2022–2023).
+- **MyTrade Agency** — Web Development Intern (2021).
+
+Education: Graduate Certificates in **Business Intelligence Systems Infrastructure** and **Project Management** (Algonquin College), and a **Bachelor of Software Engineering** (ESISA).
+
+## GitHub activity
+
+![GitHub activity](./profile/stats.svg)
+
+![Most-used repository languages](./profile/top-langs.svg)
