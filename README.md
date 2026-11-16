@@ -5,7 +5,7 @@ Ottawa, Canada · English / French / Arabic
 
 I turn raw data into clear insights and practical tools, from SQL queries and dependable ETL pipelines to Power BI dashboards, forecasting models, and analytical applications. My background in software engineering helps me connect business questions with reliable technical solutions.
 
-[**Portfolio**](https://portfolio-9o9p.onrender.com/) · [**LinkedIn**](https://www.linkedin.com/in/ahmed-ouazzani-5b078b205/) · [**Email**](mailto:ahmedouazzani225@gmail.com)
+[**Portfolio**](https://ahmed-ouazzani-portfolio.ahmedouazzani225.workers.dev/) · [**LinkedIn**](https://www.linkedin.com/in/ahmed-ouazzani-5b078b205/) · [**Email**](mailto:ahmedouazzani225@gmail.com)
 
 ---
 
